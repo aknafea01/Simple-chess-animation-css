@@ -17,7 +17,9 @@ The project includes the following files:
 - CSS animations for the chess pieces.
 - No JavaScript was used, purely CSS for animation effects.
 
-[//]: <> (## Preview)
+## Preview
+![chess](https://github.com/user-attachments/assets/4948ae89-268f-4891-8f90-3412f512af73)
+
 
 [//]: <> (assets/chessboard-preview.gif)
 
