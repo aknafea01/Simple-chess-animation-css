@@ -1,7 +1,8 @@
 # Simple Chess Animation with CSS
 
 This project demonstrates a simple chessboard animation created using only HTML and CSS. The goal is to showcase a basic chessboard layout and animate the pieces in a simple and visually appealing manner using CSS keyframes and transitions.
-
+## Notices
+I didn't use responsive so it may not appear as was designed.
 ## Project Structure
 
 The project includes the following files:
